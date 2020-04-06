@@ -1,0 +1,11 @@
+.one{
+    background: chartreuse;
+    color: black;
+}
+#one{
+    background: black;
+    color: blanchedalmond;
+    padding: 1%;
+    text-align: center;
+    font-size: 24px;
+    }
